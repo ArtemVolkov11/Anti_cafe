@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.example.anti_cafe.Launcher
+Multi-Release: true
